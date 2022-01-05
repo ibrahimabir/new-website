@@ -76,7 +76,7 @@ text-align: center;
 .father-div{
     display: flex;
     border: 2px solid black;
-    margin: 4% 10%;
+   margin-bottom: 20px;
 }
 .son-div{
     width: 300px;
@@ -91,4 +91,8 @@ text-align: center;
 .child-div{
     padding-left: 100px;
     padding-right: 100px;
+}
+.ayman-vai{
+    width: 80%;
+    margin: auto;
 }
